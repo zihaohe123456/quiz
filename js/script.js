@@ -12,3 +12,15 @@ $(document).ready(function() {
     });
 
 });
+
+function enterGame(){
+    return "your favorite game is" + "name";
+}
+console.log("enterGame");
+
+function question1(){
+    
+}
+console.log();
+function question2(){
+}
